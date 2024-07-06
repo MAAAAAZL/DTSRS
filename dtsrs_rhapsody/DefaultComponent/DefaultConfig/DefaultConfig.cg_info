@@ -1,0 +1,30 @@
+I-Logix-RPY-Archive version 8.15.0 * 202303101727
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 2;
+	- value = "DefaultComponent\\DefaultConfig\\DTSRS.cpp" 2.26.2024::9:15:58
+	"DefaultComponent\\DefaultConfig\\DTSRS.h" 2.26.2024::9:15:58
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 0;
+}
+- size = 2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\DTSRS.rpyx";
+	- _subsystem = "BlockModeling";
+	- _name = "DTSRS";
+	- _id = GUID b0df4c99-2da0-48fa-b1f9-9f24dc957634;
+}
+- genTime = 2.26.2024::9:15:59;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\DTSRS.rpyx";
+	- _subsystem = "BlockModeling";
+	- _class = "DTSRS";
+	- _name = "DtsrsFrame";
+	- _id = GUID 86292b8b-2772-44b3-b056-03065c08d77b;
+}
+- genTime = 2.26.2024::9:15:59;
+
